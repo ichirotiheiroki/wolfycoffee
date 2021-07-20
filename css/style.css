@@ -134,7 +134,7 @@ body {
 body:before,
 body:after {
 	content: "";
-	background: url(../img/coffeebeans.jpg)
+	background: url(../img/1.jpg)
 		no-repeat center 32%;
 	background-size: cover;
 	width: 100vw;
